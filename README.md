@@ -4,11 +4,14 @@
 - 🌱 Estudando JavaScript
 - 👨‍🎓 Estou cursando a faculdade de Análise e Desenvolvimento de Sistemas
 
+<div align="center">
+  <a href="https://github.com/racinefe">
+  <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&langs_count=7&theme=merko"/>
+</div>
+
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +31,7 @@
 
 ##
 
-![Snake animation](https://github.com/racinefe/racinefe/blob/main/feltex-github-user-contribution.svg)
+![Snake animation](https://github.com/racinefe/racinefe/blob/main/racinefe-github-user-contribution.svg)
  
  
  
@@ -52,7 +55,10 @@ Here are some ideas to get you started:
 - ⚡ ...
 - 👨‍🎓 Estou cursando a faculdade de Análise e Desenvolvimento de Sistemas
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ----------links-----------------------
  <a href="https://www.youtube.com/channel/UCIc4UnmS-PVSIcp4BphTzsA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
