@@ -31,10 +31,7 @@
 
 ##
 
-![Snake animation](https://github.com/racinefe/racinefe/blob/main/racinefe-github-user-contribution.svg)
- 
- 
- 
+
  
  
   
