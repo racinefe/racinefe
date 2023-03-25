@@ -12,7 +12,7 @@
 
 ##
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/0989b3c824c2214ddbe2c196aa10408d.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/442a8a7d45b96790175e6ab171ae3ae0.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
