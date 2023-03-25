@@ -28,7 +28,7 @@
 
 ##
 
-![Snake animation](https://github.com/racinefe/racinefe/blob/output/github-contribution-grid-snake.svg)
+
  
  
  
