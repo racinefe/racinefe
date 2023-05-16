@@ -1,7 +1,7 @@
 ✨Olá! Eu sou Racine Fellipe 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Java
+- 🌱 Estudando JavaScript
 - 👨‍🎓 Estou cursando a faculdade de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
