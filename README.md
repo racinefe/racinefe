@@ -1,4 +1,4 @@
-✨Olá Mundo! Eu sou Racine Fellipe 👋
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="racinefellipe" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/racinefellipe?trk=profile-badge"> ✨Olá Mundo! Eu sou Racine Fellipe 👋</a></div> 
 
 
 - 🌱 Estudando JavaScript
@@ -29,6 +29,8 @@
   <a href="https://www.instagram.com/racinefell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: racine.3301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/racinefellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+              
   
 </div>
   
