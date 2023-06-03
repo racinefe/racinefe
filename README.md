@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando JavaScript
-- 👨‍🎓 Estou cursando a faculdade de Análise e Desenvolvimento de Sistemas
+
 
 <div align="center">
   <a href="https://github.com/racinefe">
