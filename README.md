@@ -12,7 +12,7 @@
 
 ##
 
- <img align="right" alt="Racine-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/BaDsH4FpMBnqdK8J0g/giphy.gif?cid=ecf05e4746557fdw9hbazc1ljf0fs6594fxhpte8lm514g6u&rid=giphy.gif&ct=g">
+ 
 
 
 <div style="display: inline_block"><br>
