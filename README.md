@@ -27,11 +27,12 @@
 
 ## 
 
-<div>
+<div align="center">
   <a href="https://github.com/racinefe">
   <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&langs_count=7&theme=merko"/>
   <img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=Racinefe&amp;theme=merko"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
 </div>
   
   
