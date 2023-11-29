@@ -15,7 +15,9 @@ Sou do Rio de Janeiro, Estou Cursando Análise e Desenvolvimento de Sistemas, e 
 
 
 <h2 align="left">
-Skills:  <img align="center" alt="Logo-HTML" height="30" width="40"  src="https://cdn.discordapp.com/attachments/1089186196858622065/1179547539431772200/circuito-cerebral_1.png?ex=657a2e40&is=6567b940&hm=2e66878acf81253b509c73b3636d631e4a9d323c2c9d9f3a186fea6a60901453&" />
+Skills: 
+
+
 </h2> 
 <div style="display: inline_block"><br>
  <img align="center" alt="Logo-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -28,7 +30,7 @@ Skills:  <img align="center" alt="Logo-HTML" height="30" width="40"  src="https:
  </div> 
   
  <h2 align="left">
-Como entrar em contato comigo:
+Como entrar em contato comigo:  <img align="center" alt="Logo-HTML" height="30" width="40"  src="https://github.com/racinefe/racinefe/assets/102471647/22f49438-fb86-4e50-a18a-ef54fac9afeb" />
 </h2> 
  <div> 
   <a href="https://www.instagram.com/racinefell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -54,7 +56,7 @@ Como entrar em contato comigo:
 </p>
 
  
- 
+
   
 
 
