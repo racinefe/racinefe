@@ -38,17 +38,17 @@ Como entrar em contato comigo:  <img align="center" alt="Logo-HTML" height="30" 
   <a href="https://www.linkedin.com/in/racinefellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<table align="center" height="250" width="100">
+<table align="center" height="450" width="500" >
   <tr>
     <td>
-       <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
+       <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
     </td>
     <td>
-     <img align="" height="200em" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+     <img width="500" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     </td>
     <td>
       <br />
-       <img height="300em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&langs_count=7&theme=merko"/>
+       <img  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&langs_count=7&theme=merko"/>
     </td>
   </tr>
 </table>
