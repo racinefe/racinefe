@@ -36,10 +36,10 @@ Skills:
 <table>
   <tr>
     <td>
-       <img height="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
+       <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
     </td>
     <td>
-     <img align="" height="300em" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+     <img align="" height="200em" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     </td>
     <td>
       <br />
