@@ -38,7 +38,7 @@ Como entrar em contato comigo:  <img align="center" alt="Logo-HTML" height="30" 
   <a href="https://www.linkedin.com/in/racinefellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<table>
+<table align="center" height="250" width="100">
   <tr>
     <td>
        <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
