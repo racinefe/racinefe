@@ -1,12 +1,20 @@
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="racinefellipe" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/racinefellipe?trk=profile-badge"> ✨Olá Mundo! Eu sou Racine Fellipe 👋</a></div> 
 
-
+  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/racinefellipe?trk=profile-badge"> 
+  ✨Olá Mundo! Eu sou <strong>Racine Fellipe</strong> 👋
+  </a>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  
 - 🌱 Estudando Java
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 
+<p align="left"> 
 
 
-## Skills:
+
+
+<h2 align="left">
+Skills:
+</h2> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |
   <img align="center" alt="Logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> |
@@ -25,21 +33,22 @@
   <a href="https://www.linkedin.com/in/racinefellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 
+<table>
+  <tr>
+    <td>
+       <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
+    </td>
+    <td>
+     <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <br />
+       <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&langs_count=7&theme=merko"/>
+    </td>
+  </tr>
+</table>
 
-<div >
-  <a href="https://github.com/racinefe">
-     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
-  <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&langs_count=7&theme=merko"/>
- 
- 
-</div>
-  
-  
-
-##
-
+</p>
 
  
  
@@ -47,6 +56,9 @@
 
 
 <!--
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="racinefellipe" data-version="v1">   
+</div> 
+
  <img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=Racinefe&amp;theme=merko"/>
 **racinefe/racinefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
