@@ -41,10 +41,10 @@ Como entrar em contato comigo:  <img align="center" alt="Logo-HTML" height="30" 
 <table align="center" height="450" width="500" >
   <tr>
     <td>
-       <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
     </td>
     <td>
-     <img width="500" src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     </td>
     <td>
       <br />
@@ -54,12 +54,6 @@ Como entrar em contato comigo:  <img align="center" alt="Logo-HTML" height="30" 
 </table>
 
 </p>
-
- 
-
-  
-
-
 <!--
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="racinefellipe" data-version="v1">   
 </div> 
