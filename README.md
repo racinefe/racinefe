@@ -3,7 +3,7 @@
   ✨Olá Mundo! Eu sou <strong>Racine Fellipe</strong> 👋
     
   </a>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  <img src="https://encurtador.com.br/kpzVY" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
 - 🌱 Estudando Java
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
