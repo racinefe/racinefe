@@ -28,17 +28,7 @@
   <a href="https://www.linkedin.com/in/racinefellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </p>
-<table align="center" height="450" width="500" >
-  <tr>
-    <td>
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
-    </td>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <br />
-       <img  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&langs_count=7&theme=merko"/>
-    </td>
-  </tr>
-</table>
+    <img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&langs_count=7&theme=merko"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Racinefe&theme=merko"/>
+m   <img src="https://github-readme-stats.vercel.app/api?username=racinefe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  
