@@ -1,16 +1,17 @@
 
-  <h1 align="left">💫Olá Mundo! Eu sou Racine Fellipe👋</h1> 
+  <h1 align="left">💫Olá Mundo!👋</h1> 
   
 
     
   
   <img src="https://encurtador.com.br/kpzVY" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
-- 🌱 Estudando Java
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Java. 
+- 🌐 Cursando Análise e Desenvolvimento de Sistemas.
+- 🛠️ Trabalhando em projetos desafiadores para expandir meu conhecimento.
+- 📚 Aprendendo constantemente e compartilhando conhecimento.
   
-<p align="left">  📫 Sou do Rio de Janeiro/RJ, Brasil, Estou Cursando Análise e Desenvolvimento de Sistemas, 
-  e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor back-end.
+<p align="left">  Meu nome é Racine Fellipe, sou do Rio de Janeiro/RJ, Brasil, e atualmente estou Cursando Análise e Desenvolvimento de Sistemas. 👨‍💻 Atuo com dedicação no aprimoramento das minhas habilidades como desenvolvedor back-end.
   
 </p>
  
