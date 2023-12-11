@@ -2,7 +2,8 @@
   <h1 align="left">💫Olá Mundo!👋</h1> 
   
 
-    
+  <p align="left">  Meu nome é Racine Fellipe, sou do Rio de Janeiro/RJ, Brasil, <br>
+    e atualmente estou Cursando Análise e Desenvolvimento de Sistemas.</p>
   
   <img src="https://encurtador.com.br/kpzVY" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
@@ -13,11 +14,7 @@
 - 📚 Aprendendo constantemente e compartilhando conhecimento.
 
   
-<p align="left">  Meu nome é Racine Fellipe, sou do Rio de Janeiro/RJ, Brasil, e atualmente estou Cursando Análise e Desenvolvimento de Sistemas.
 
-
-  
-</p>
  
   <img src="https://cdn.discordapp.com/attachments/1089186196858622065/1180494585282175066/lineBar.png?ex=657da041&is=656b2b41&hm=e018525b4e6d2779c9da01a017cb8c3ae719a9a9aefa92f72411574becbc9ca9&" width="100%" height="8px"/>
    <h2 align="left">Skills: 🪄</h2>
