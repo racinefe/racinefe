@@ -2,7 +2,7 @@
   <h1 align="left">💫Olá Mundo!👋</h1> 
   
 
-  <p align="left">  Meu nome é Racine Fellipe, sou do Rio de Janeiro/RJ, Brasil, <br>
+  <p align="left">  Meu nome é <strong><span style="color: #3498db;">Racine Fellipe</span></strong> , sou do Rio de Janeiro/RJ, Brasil, <br>
     e atualmente estou Cursando Análise e Desenvolvimento de Sistemas.</p>
   
   <img src="https://encurtador.com.br/kpzVY" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
