@@ -17,7 +17,7 @@
 
  
   <img src="https://cdn.discordapp.com/attachments/1089186196858622065/1180494585282175066/lineBar.png?ex=657da041&is=656b2b41&hm=e018525b4e6d2779c9da01a017cb8c3ae719a9a9aefa92f72411574becbc9ca9&" width="100%" height="8px"/>
-   <h2 align="left">Skills: 🪄</h2>
+   <h2 align="left">Stack: 🪄</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="Logo-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
