@@ -7,8 +7,8 @@
   
   <img src="https://encurtador.com.br/kpzVY" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
-- 🌱 Estudando Flutter.
-- 👨‍💻 Focando no aprimoramento das minhas habilidades como desenvolvedor back-end.
+- 🌱 Estudando Angular.
+- 👨‍💻 Focando no aprimoramento das minhas habilidades como desenvolvedor.
 - 🌐 Cursando Análise e Desenvolvimento de Sistemas.
 - 🛠️ Trabalhando em projetos desafiadores para expandir meu conhecimento.
 - 📚 Aprendendo constantemente e compartilhando conhecimento.
