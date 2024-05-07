@@ -5,7 +5,7 @@
   <p align="left">  Meu nome é <strong><span style="color: #3498db;">Racine Fellipe</span></strong> , sou do Rio de Janeiro/RJ, Brasil, <br>
     e atualmente estou Cursando Análise e Desenvolvimento de Sistemas.</p>
   
-  <img src="https://cdn.discordapp.com/attachments/1089186196858622065/1179757632232378418/computer-illustration.png?ex=6630e0ea&is=662f8f6a&hm=d3f538d26309e7d54077326c14ae0d44b8521e00dad076282a19236a9421dcde&" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  <img src="https://i.ibb.co/Jz3qsLs/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
 - 🌱 Estudando Angular.
 - 👨‍💻 Focando no aprimoramento das minhas habilidades como desenvolvedor.
