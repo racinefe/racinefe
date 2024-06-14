@@ -32,7 +32,7 @@
           
   </div> 
   
-   <h2 align="left">Como entrar em contato comigo: 📎</h2> 
+   <h2 align="left">Como entrar em contato: 📎</h2> 
   
    <div> 
     <a href="https://www.instagram.com/racinefell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
