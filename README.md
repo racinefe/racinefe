@@ -16,8 +16,10 @@
   
 
  
-  <img src="https://cdn.discordapp.com/attachments/1089186196858622065/1180494585282175066/lineBar.png?ex=6630ec41&is=662f9ac1&hm=6cc41e7aebea7c0e99186d3c962a966758fc0cb1597250f07baff170500cb9eb&" width="100%" height="8px"/>
-  <h2 alingn="left">Knowledge</h2>
+  
+  <a href="https://ibb.co/6Yp8KW0"><img src="https://i.ibb.co/ZdwSQMz/lineBar.png" alt="lineBar" border="0" width="100%" height="8px"/></a>
+  
+  <h2 alingn="left">Conhecimentos</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="Logo-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
@@ -51,7 +53,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racinefe&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=racinefe&bg_color=000006&line=66ff00&point=00d150&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+  <a href="https://ibb.co/6Yp8KW0"><img src="https://i.ibb.co/ZdwSQMz/lineBar.png" alt="lineBar" border="0" width="100%" height="8px"/></a>
 </div>
 
 </div>
