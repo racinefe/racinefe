@@ -3,7 +3,7 @@
   
 
   <p align="left">  Meu nome é <strong><span style="color: #3498db;">Racine Fellipe</span></strong> , sou do Rio de Janeiro/RJ, Brasil, <br>
-    e atualmente estou Cursando Análise e Desenvolvimento de Sistemas.</p>
+    Formado em Análise e Desenvolvimento de Sistemas.</p>
   
   <img src="https://i.ibb.co/Jz3qsLs/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
