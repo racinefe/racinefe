@@ -49,5 +49,5 @@
 
 </div>
 
-<img src="https://cdn.discordapp.com/attachments/1089186196858622065/1180494585282175066/lineBar.png?ex=657da041&is=656b2b41&hm=e018525b4e6d2779c9da01a017cb8c3ae719a9a9aefa92f72411574becbc9ca9&" width="100%" height="8px"/>
+ <a href="https://ibb.co/6Yp8KW0"><img src="https://i.ibb.co/ZdwSQMz/lineBar.png" alt="lineBar" border="0" width="100%" height="8px"/></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>  
